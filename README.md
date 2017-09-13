@@ -62,6 +62,10 @@ From Alaska, Hawaii and Washington down to California there are several local ch
   - [Seattle JS Hackers](https://seattlejshackers.slack.com)
   - [Tech Seattle](https://techseattle.slack.com/messages/C045K4QLR/)
 
+### Argentina ###
+
+- Buenos Aires - [Meetup.js Argentina](https://slack.meetupjs.com.ar/)
+
 ### Canada ###
 
 - BC - [Vancouver Developers (YVR Dev)](https://yvrdev.herokuapp.com/)
